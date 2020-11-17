@@ -104,7 +104,7 @@ Rozměr zdroje je 24cm x 15cm x 25cm, větrací otvory mají průměr 7mm a rozt
 
 ![Laboratorní zdroj DPS Bot V1](Fotky/Laboratorni_zdroj_DPS_Bot_V1.jpg "Laboratorní zdroj DPS Bot V1")
 ![Laboratorní zdroj DPS Top V1](Fotky/Laboratorni_zdroj_DPS_Top_V1.jpg "Laboratorní zdroj DPS Top V1")
-![Laboratorní zdroj DPS 3D render](Fotky/Laboratorni_zdroj_DPS_3D_render.jpg "Laboratorní zdroj DPS 3D render")
+![Laboratorní zdroj DPS 3D render](Fotky/Laboratorní_zdroj_DPS_3D_render.jpg "Laboratorní zdroj DPS 3D render")
 ![Laboratorní zdroj DPS Top V1 osazená](Fotky/Laboratorni_zdroj_DPS_Top_V1_osazena.jpg "Laboratorní zdroj DPS Top V1 osazená")
 ![Laboratorní zdroj - Chladič](Fotky/Laboratorni_zdroj_Chladic.jpg "Laboratorní zdroj - Chladič")
 ![Laboratorní zdroj - Kostra](Fotky/Laboratorni_zdroj_Kostra.jpg "Laboratorní zdroj - Kostra")
