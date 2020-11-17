@@ -3,12 +3,11 @@
 ![Dvojitý laboratorní zdroj 30V/3.5A](Fotky/Laboratorni_zdroj_ze_predu.jpg "Dvojitý laboratorní zdroj 30V/3.5A")
 
 Napájecí zdroj s nastavitelným výstupním napětím 0-30V a nastavitelným omezením výstupního proudu 0-3.5A. Omezení proudu je indikováno červenou LEDkou.
-Jedná se o dvoukanálový laboratorní zdroj.  Maximální proud, který jsem dostal z kanálu 1 je 3.5A a z kanálu 2 3.7A (po zkratování výstupních svorek).
-
-Použitý transformátor má několik sekundárních vinutí. Z nich jsem využil dvě hlavní, každé s výstupem 25V/4A a dvě pomocná s výstupem 12V/2A pro napájení panelových měřidel a ventilátorů.
-Zapnutí ventilátorů jsem nastavil na teplotu tranzistorů 60C, vypíná se při 46C.
-Čelní panel jsem nakreslil v Inkscape, vytiskl a potom přežehlil laminovací folií pro lepší vzhled, zpevnění a také ochranu tisku.
-Pro regulaci výstupního napětí a omezení proudu jsou použity 5-ti otáčkové potenciometry.
+Jedná se o dvoukanálový laboratorní zdroj.  Maximální proud, který jsem dostal z kanálu 1 je 3.5A a z kanálu 2 3.7A (po zkratování výstupních svorek).<br>
+Použitý transformátor má několik sekundárních vinutí. Z nich jsem využil dvě hlavní, každé s výstupem 25V/4A a dvě pomocná s výstupem 12V/2A pro napájení panelových měřidel a ventilátorů.<br>
+Zapnutí ventilátorů jsem nastavil na teplotu tranzistorů 60C, vypíná se při 46C.<br>
+Čelní panel jsem nakreslil v Inkscape, vytiskl a potom přežehlil laminovací folií pro lepší vzhled, zpevnění a také ochranu tisku.<br>
+Pro regulaci výstupního napětí a omezení proudu jsou použity 5-ti otáčkové potenciometry.<br>
 Rozměr zdroje je 24cm x 15cm x 25cm, větrací otvory mají průměr 7mm a rozteč 10.4mm.
 
 ## Měření tvrdosti zdroje
